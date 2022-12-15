@@ -129,7 +129,7 @@ else
 fi
 
 wait
-
+exit 0
 #########################################################
 echo '***' Starting map parallelism test.
 
